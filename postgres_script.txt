@@ -15,3 +15,5 @@ Generate Schema:
 mkdir lib && touch lib/prisma.ts
 
 npx prisma db seed
+
+heroku addons:create heroku-postgresql:hobby-dev
