@@ -1,0 +1,6730 @@
+[
+    {
+        "id": "001",
+        "name": "Bulbasaur",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "002",
+        "name": "Ivysaur",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "003",
+        "name": "Venusaur",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "004",
+        "name": "Charmander",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "005",
+        "name": "Charmeleon",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "006",
+        "name": "Charizard",
+        "abilities": [
+            "Fuego",
+            "Volador"
+        ]
+    },
+    {
+        "id": "007",
+        "name": "Squirtle",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "008",
+        "name": "Wartortle",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "009",
+        "name": "Blastoise",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "010",
+        "name": "Caterpie",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "011",
+        "name": "Metapod",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "012",
+        "name": "Butterfree",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "013",
+        "name": "Weedle",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "014",
+        "name": "Kakuna",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "015",
+        "name": "Beedrill",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "016",
+        "name": "Pidgey",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "017",
+        "name": "Pidgeotto",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "018",
+        "name": "Pidgeot",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "019",
+        "name": "Rattata",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "020",
+        "name": "Raticate",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "021",
+        "name": "Spearow",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "022",
+        "name": "Fearow",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "023",
+        "name": "Ekans",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "024",
+        "name": "Arbok",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "025",
+        "name": "Pikachu",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "026",
+        "name": "Raichu",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "027",
+        "name": "Sandshrew",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "028",
+        "name": "Sandslash",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "029",
+        "name": "Nidoran♀",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "030",
+        "name": "Nidorina",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "031",
+        "name": "Nidoqueen",
+        "abilities": [
+            "Veneno",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "032",
+        "name": "Nidoran♂",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "033",
+        "name": "Nidorino",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "034",
+        "name": "Nidoking",
+        "abilities": [
+            "Veneno",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "035",
+        "name": "Clefairy",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "036",
+        "name": "Clefable",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "037",
+        "name": "Vulpix",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "038",
+        "name": "Ninetales",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "039",
+        "name": "Jigglypuff",
+        "abilities": [
+            "Normal",
+            "Hada"
+        ]
+    },
+    {
+        "id": "040",
+        "name": "Wigglytuff",
+        "abilities": [
+            "Normal",
+            "Hada"
+        ]
+    },
+    {
+        "id": "041",
+        "name": "Zubat",
+        "abilities": [
+            "Veneno",
+            "Volador"
+        ]
+    },
+    {
+        "id": "042",
+        "name": "Golbat",
+        "abilities": [
+            "Veneno",
+            "Volador"
+        ]
+    },
+    {
+        "id": "043",
+        "name": "Oddish",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "044",
+        "name": "Gloom",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "045",
+        "name": "Vileplume",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "046",
+        "name": "Paras",
+        "abilities": [
+            "Bicho",
+            "Planta"
+        ]
+    },
+    {
+        "id": "047",
+        "name": "Parasect",
+        "abilities": [
+            "Bicho",
+            "Planta"
+        ]
+    },
+    {
+        "id": "048",
+        "name": "Venonat",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "049",
+        "name": "Venomoth",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "050",
+        "name": "Diglett",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "051",
+        "name": "Dugtrio",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "052",
+        "name": "Meowth",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "053",
+        "name": "Persian",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "054",
+        "name": "Psyduck",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "055",
+        "name": "Golduck",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "056",
+        "name": "Mankey",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "057",
+        "name": "Primeape",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "058",
+        "name": "Growlithe",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "059",
+        "name": "Arcanine",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "060",
+        "name": "Poliwag",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "061",
+        "name": "Poliwhirl",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "062",
+        "name": "Poliwrath",
+        "abilities": [
+            "Agua",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "063",
+        "name": "Abra",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "064",
+        "name": "Kadabra",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "065",
+        "name": "Alakazam",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "066",
+        "name": "Machop",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "067",
+        "name": "Machoke",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "068",
+        "name": "Machamp",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "069",
+        "name": "Bellsprout",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "070",
+        "name": "Weepinbell",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "071",
+        "name": "Victreebel",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "072",
+        "name": "Tentacool",
+        "abilities": [
+            "Agua",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "073",
+        "name": "Tentacruel",
+        "abilities": [
+            "Agua",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "074",
+        "name": "Geodude",
+        "abilities": [
+            "Roca",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "075",
+        "name": "Graveler",
+        "abilities": [
+            "Roca",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "076",
+        "name": "Golem",
+        "abilities": [
+            "Roca",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "077",
+        "name": "Ponyta",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "078",
+        "name": "Rapidash",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "079",
+        "name": "Slowpoke",
+        "abilities": [
+            "Agua",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "080",
+        "name": "Slowbro",
+        "abilities": [
+            "Agua",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "081",
+        "name": "Magnemite",
+        "abilities": [
+            "Eléctrico",
+            "Acero"
+        ]
+    },
+    {
+        "id": "082",
+        "name": "Magneton",
+        "abilities": [
+            "Eléctrico",
+            "Acero"
+        ]
+    },
+    {
+        "id": "083",
+        "name": "Farfetch'd",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "084",
+        "name": "Doduo",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "085",
+        "name": "Dodrio",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "086",
+        "name": "Seel",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "087",
+        "name": "Dewgong",
+        "abilities": [
+            "Agua",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "088",
+        "name": "Grimer",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "089",
+        "name": "Muk",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "090",
+        "name": "Shellder",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "091",
+        "name": "Cloyster",
+        "abilities": [
+            "Agua",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "092",
+        "name": "Gastly",
+        "abilities": [
+            "Fantasma",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "093",
+        "name": "Haunter",
+        "abilities": [
+            "Fantasma",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "094",
+        "name": "Gengar",
+        "abilities": [
+            "Fantasma",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "095",
+        "name": "Onix",
+        "abilities": [
+            "Roca",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "096",
+        "name": "Drowzee",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "097",
+        "name": "Hypno",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "098",
+        "name": "Krabby",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "099",
+        "name": "Kingler",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "100",
+        "name": "Voltorb",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "101",
+        "name": "Electrode",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "102",
+        "name": "Exeggcute",
+        "abilities": [
+            "Planta",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "103",
+        "name": "Exeggutor",
+        "abilities": [
+            "Planta",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Cubone",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "105",
+        "name": "Marowak",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "106",
+        "name": "Hitmonlee",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "107",
+        "name": "Hitmonchan",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "108",
+        "name": "Lickitung",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "109",
+        "name": "Koffing",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "110",
+        "name": "Weezing",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "111",
+        "name": "Rhyhorn",
+        "abilities": [
+            "Tierra",
+            "Roca"
+        ]
+    },
+    {
+        "id": "112",
+        "name": "Rhydon",
+        "abilities": [
+            "Tierra",
+            "Roca"
+        ]
+    },
+    {
+        "id": "113",
+        "name": "Chansey",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "114",
+        "name": "Tangela",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "115",
+        "name": "Kangaskhan",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "116",
+        "name": "Horsea",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "117",
+        "name": "Seadra",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "118",
+        "name": "Goldeen",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "119",
+        "name": "Seaking",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "120",
+        "name": "Staryu",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "121",
+        "name": "Starmie",
+        "abilities": [
+            "Agua",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "122",
+        "name": "Mr. Mime",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "123",
+        "name": "Scyther",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "124",
+        "name": "Jynx",
+        "abilities": [
+            "Hielo",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "125",
+        "name": "Electabuzz",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "126",
+        "name": "Magmar",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "127",
+        "name": "Pinsir",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "128",
+        "name": "Tauros",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "129",
+        "name": "Magikarp",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "130",
+        "name": "Gyarados",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "131",
+        "name": "Lapras",
+        "abilities": [
+            "Agua",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "132",
+        "name": "Ditto",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "133",
+        "name": "Eevee",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "134",
+        "name": "Vaporeon",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "135",
+        "name": "Jolteon",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "136",
+        "name": "Flareon",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "137",
+        "name": "Porygon",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "138",
+        "name": "Omanyte",
+        "abilities": [
+            "Roca",
+            "Agua"
+        ]
+    },
+    {
+        "id": "139",
+        "name": "Omastar",
+        "abilities": [
+            "Roca",
+            "Agua"
+        ]
+    },
+    {
+        "id": "140",
+        "name": "Kabuto",
+        "abilities": [
+            "Roca",
+            "Agua"
+        ]
+    },
+    {
+        "id": "141",
+        "name": "Kabutops",
+        "abilities": [
+            "Roca",
+            "Agua"
+        ]
+    },
+    {
+        "id": "142",
+        "name": "Aerodactyl",
+        "abilities": [
+            "Roca",
+            "Volador"
+        ]
+    },
+    {
+        "id": "143",
+        "name": "Snorlax",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "144",
+        "name": "Articuno",
+        "abilities": [
+            "Hielo",
+            "Volador"
+        ]
+    },
+    {
+        "id": "145",
+        "name": "Zapdos",
+        "abilities": [
+            "Eléctrico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "146",
+        "name": "Moltres",
+        "abilities": [
+            "Fuego",
+            "Volador"
+        ]
+    },
+    {
+        "id": "147",
+        "name": "Dratini",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "148",
+        "name": "Dragonair",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "149",
+        "name": "Dragonite",
+        "abilities": [
+            "Dragón",
+            "Volador"
+        ]
+    },
+    {
+        "id": "150",
+        "name": "Mewtwo",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "151",
+        "name": "Mew",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "152",
+        "name": "Chikorita",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "153",
+        "name": "Bayleef",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "154",
+        "name": "Meganium",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "155",
+        "name": "Cyndaquil",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "156",
+        "name": "Quilava",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "157",
+        "name": "Typhlosion",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "158",
+        "name": "Totodile",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "159",
+        "name": "Croconaw",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "160",
+        "name": "Feraligatr",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "161",
+        "name": "Sentret",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "162",
+        "name": "Furret",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "163",
+        "name": "Hoothoot",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "164",
+        "name": "Noctowl",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "165",
+        "name": "Ledyba",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "166",
+        "name": "Ledian",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "167",
+        "name": "Spinarak",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "168",
+        "name": "Ariados",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "169",
+        "name": "Crobat",
+        "abilities": [
+            "Veneno",
+            "Volador"
+        ]
+    },
+    {
+        "id": "170",
+        "name": "Chinchou",
+        "abilities": [
+            "Agua",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "171",
+        "name": "Lanturn",
+        "abilities": [
+            "Agua",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "172",
+        "name": "Pichu",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "173",
+        "name": "Cleffa",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "174",
+        "name": "Igglybuff",
+        "abilities": [
+            "Normal",
+            "Hada"
+        ]
+    },
+    {
+        "id": "175",
+        "name": "Togepi",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "176",
+        "name": "Togetic",
+        "abilities": [
+            "Hada",
+            "Volador"
+        ]
+    },
+    {
+        "id": "177",
+        "name": "Natu",
+        "abilities": [
+            "Psíquico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "178",
+        "name": "Xatu",
+        "abilities": [
+            "Psíquico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "179",
+        "name": "Mareep",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "180",
+        "name": "Flaaffy",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "181",
+        "name": "Ampharos",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "182",
+        "name": "Bellossom",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "183",
+        "name": "Marill",
+        "abilities": [
+            "Agua",
+            "Hada"
+        ]
+    },
+    {
+        "id": "184",
+        "name": "Azumarill",
+        "abilities": [
+            "Agua",
+            "Hada"
+        ]
+    },
+    {
+        "id": "185",
+        "name": "Sudowoodo",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "186",
+        "name": "Politoed",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "187",
+        "name": "Hoppip",
+        "abilities": [
+            "Planta",
+            "Volador"
+        ]
+    },
+    {
+        "id": "188",
+        "name": "Skiploom",
+        "abilities": [
+            "Planta",
+            "Volador"
+        ]
+    },
+    {
+        "id": "189",
+        "name": "Jumpluff",
+        "abilities": [
+            "Planta",
+            "Volador"
+        ]
+    },
+    {
+        "id": "190",
+        "name": "Aipom",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "191",
+        "name": "Sunkern",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "192",
+        "name": "Sunflora",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "193",
+        "name": "Yanma",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "194",
+        "name": "Wooper",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "195",
+        "name": "Quagsire",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "196",
+        "name": "Espeon",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "197",
+        "name": "Umbreon",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "198",
+        "name": "Murkrow",
+        "abilities": [
+            "Siniestro",
+            "Volador"
+        ]
+    },
+    {
+        "id": "199",
+        "name": "Slowking",
+        "abilities": [
+            "Agua",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "200",
+        "name": "Misdreavus",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "201",
+        "name": "Unown",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "202",
+        "name": "Wobbuffet",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "203",
+        "name": "Girafarig",
+        "abilities": [
+            "Normal",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "204",
+        "name": "Pineco",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "205",
+        "name": "Forretress",
+        "abilities": [
+            "Bicho",
+            "Acero"
+        ]
+    },
+    {
+        "id": "206",
+        "name": "Dunsparce",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "207",
+        "name": "Gligar",
+        "abilities": [
+            "Tierra",
+            "Volador"
+        ]
+    },
+    {
+        "id": "208",
+        "name": "Steelix",
+        "abilities": [
+            "Acero",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "209",
+        "name": "Snubbull",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "210",
+        "name": "Granbull",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "211",
+        "name": "Qwilfish",
+        "abilities": [
+            "Agua",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "212",
+        "name": "Scizor",
+        "abilities": [
+            "Bicho",
+            "Acero"
+        ]
+    },
+    {
+        "id": "213",
+        "name": "Shuckle",
+        "abilities": [
+            "Bicho",
+            "Roca"
+        ]
+    },
+    {
+        "id": "214",
+        "name": "Heracross",
+        "abilities": [
+            "Bicho",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "215",
+        "name": "Sneasel",
+        "abilities": [
+            "Siniestro",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "216",
+        "name": "Teddiursa",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "217",
+        "name": "Ursaring",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "218",
+        "name": "Slugma",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "219",
+        "name": "Magcargo",
+        "abilities": [
+            "Fuego",
+            "Roca"
+        ]
+    },
+    {
+        "id": "220",
+        "name": "Swinub",
+        "abilities": [
+            "Hielo",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "221",
+        "name": "Piloswine",
+        "abilities": [
+            "Hielo",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "222",
+        "name": "Corsola",
+        "abilities": [
+            "Agua",
+            "Roca"
+        ]
+    },
+    {
+        "id": "223",
+        "name": "Remoraid",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "224",
+        "name": "Octillery",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "225",
+        "name": "Delibird",
+        "abilities": [
+            "Hielo",
+            "Volador"
+        ]
+    },
+    {
+        "id": "226",
+        "name": "Mantine",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "227",
+        "name": "Skarmory",
+        "abilities": [
+            "Acero",
+            "Volador"
+        ]
+    },
+    {
+        "id": "228",
+        "name": "Houndour",
+        "abilities": [
+            "Siniestro",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "229",
+        "name": "Houndoom",
+        "abilities": [
+            "Siniestro",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "230",
+        "name": "Kingdra",
+        "abilities": [
+            "Agua",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "231",
+        "name": "Phanpy",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "232",
+        "name": "Donphan",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "233",
+        "name": "Porygon2",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "234",
+        "name": "Stantler",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "235",
+        "name": "Smeargle",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "236",
+        "name": "Tyrogue",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "237",
+        "name": "Hitmontop",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "238",
+        "name": "Smoochum",
+        "abilities": [
+            "Hielo",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "239",
+        "name": "Elekid",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "240",
+        "name": "Magby",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "241",
+        "name": "Miltank",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "242",
+        "name": "Blissey",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "243",
+        "name": "Raikou",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "244",
+        "name": "Entei",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "245",
+        "name": "Suicune",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "246",
+        "name": "Larvitar",
+        "abilities": [
+            "Roca",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "247",
+        "name": "Pupitar",
+        "abilities": [
+            "Roca",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "248",
+        "name": "Tyranitar",
+        "abilities": [
+            "Roca",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "249",
+        "name": "Lugia",
+        "abilities": [
+            "Psíquico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "250",
+        "name": "Ho-Oh",
+        "abilities": [
+            "Fuego",
+            "Volador"
+        ]
+    },
+    {
+        "id": "251",
+        "name": "Celebi",
+        "abilities": [
+            "Psíquico",
+            "Planta"
+        ]
+    },
+    {
+        "id": "252",
+        "name": "Treecko",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "253",
+        "name": "Grovyle",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "254",
+        "name": "Sceptile",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "255",
+        "name": "Torchic",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "256",
+        "name": "Combusken",
+        "abilities": [
+            "Fuego",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "257",
+        "name": "Blaziken",
+        "abilities": [
+            "Fuego",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "258",
+        "name": "Mudkip",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "259",
+        "name": "Marshtomp",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "260",
+        "name": "Swampert",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "261",
+        "name": "Poochyena",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "262",
+        "name": "Mightyena",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "263",
+        "name": "Zigzagoon",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "264",
+        "name": "Linoone",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "265",
+        "name": "Wurmple",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "266",
+        "name": "Silcoon",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "267",
+        "name": "Beautifly",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "268",
+        "name": "Cascoon",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "269",
+        "name": "Dustox",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "270",
+        "name": "Lotad",
+        "abilities": [
+            "Agua",
+            "Planta"
+        ]
+    },
+    {
+        "id": "271",
+        "name": "Lombre",
+        "abilities": [
+            "Agua",
+            "Planta"
+        ]
+    },
+    {
+        "id": "272",
+        "name": "Ludicolo",
+        "abilities": [
+            "Agua",
+            "Planta"
+        ]
+    },
+    {
+        "id": "273",
+        "name": "Seedot",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "274",
+        "name": "Nuzleaf",
+        "abilities": [
+            "Planta",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "275",
+        "name": "Shiftry",
+        "abilities": [
+            "Planta",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "276",
+        "name": "Taillow",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "277",
+        "name": "Swellow",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "278",
+        "name": "Wingull",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "279",
+        "name": "Pelipper",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "280",
+        "name": "Ralts",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "281",
+        "name": "Kirlia",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "282",
+        "name": "Gardevoir",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "283",
+        "name": "Surskit",
+        "abilities": [
+            "Bicho",
+            "Agua"
+        ]
+    },
+    {
+        "id": "284",
+        "name": "Masquerain",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "285",
+        "name": "Shroomish",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "286",
+        "name": "Breloom",
+        "abilities": [
+            "Planta",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "287",
+        "name": "Slakoth",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "288",
+        "name": "Vigoroth",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "289",
+        "name": "Slaking",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "290",
+        "name": "Nincada",
+        "abilities": [
+            "Bicho",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "291",
+        "name": "Ninjask",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "292",
+        "name": "Shedinja",
+        "abilities": [
+            "Bicho",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "293",
+        "name": "Whismur",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "294",
+        "name": "Loudred",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "295",
+        "name": "Exploud",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "296",
+        "name": "Makuhita",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "297",
+        "name": "Hariyama",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "298",
+        "name": "Azurill",
+        "abilities": [
+            "Normal",
+            "Hada"
+        ]
+    },
+    {
+        "id": "299",
+        "name": "Nosepass",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "300",
+        "name": "Skitty",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "301",
+        "name": "Delcatty",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "302",
+        "name": "Sableye",
+        "abilities": [
+            "Siniestro",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "303",
+        "name": "Mawile",
+        "abilities": [
+            "Acero",
+            "Hada"
+        ]
+    },
+    {
+        "id": "304",
+        "name": "Aron",
+        "abilities": [
+            "Acero",
+            "Roca"
+        ]
+    },
+    {
+        "id": "305",
+        "name": "Lairon",
+        "abilities": [
+            "Acero",
+            "Roca"
+        ]
+    },
+    {
+        "id": "306",
+        "name": "Aggron",
+        "abilities": [
+            "Acero",
+            "Roca"
+        ]
+    },
+    {
+        "id": "307",
+        "name": "Meditite",
+        "abilities": [
+            "Lucha",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "308",
+        "name": "Medicham",
+        "abilities": [
+            "Lucha",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "309",
+        "name": "Electrike",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "310",
+        "name": "Manectric",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "311",
+        "name": "Plusle",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "312",
+        "name": "Minun",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "313",
+        "name": "Volbeat",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "314",
+        "name": "Illumise",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "315",
+        "name": "Roselia",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "316",
+        "name": "Gulpin",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "317",
+        "name": "Swalot",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "318",
+        "name": "Carvanha",
+        "abilities": [
+            "Agua",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "319",
+        "name": "Sharpedo",
+        "abilities": [
+            "Agua",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "320",
+        "name": "Wailmer",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "321",
+        "name": "Wailord",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "322",
+        "name": "Numel",
+        "abilities": [
+            "Fuego",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "323",
+        "name": "Camerupt",
+        "abilities": [
+            "Fuego",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "324",
+        "name": "Torkoal",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "325",
+        "name": "Spoink",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "326",
+        "name": "Grumpig",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "327",
+        "name": "Spinda",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "328",
+        "name": "Trapinch",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "329",
+        "name": "Vibrava",
+        "abilities": [
+            "Tierra",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "330",
+        "name": "Flygon",
+        "abilities": [
+            "Tierra",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "331",
+        "name": "Cacnea",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "332",
+        "name": "Cacturne",
+        "abilities": [
+            "Planta",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "333",
+        "name": "Swablu",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "334",
+        "name": "Altaria",
+        "abilities": [
+            "Dragón",
+            "Volador"
+        ]
+    },
+    {
+        "id": "335",
+        "name": "Zangoose",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "336",
+        "name": "Seviper",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "337",
+        "name": "Lunatone",
+        "abilities": [
+            "Roca",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "338",
+        "name": "Solrock",
+        "abilities": [
+            "Roca",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "339",
+        "name": "Barboach",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "340",
+        "name": "Whiscash",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "341",
+        "name": "Corphish",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "342",
+        "name": "Crawdaunt",
+        "abilities": [
+            "Agua",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "343",
+        "name": "Baltoy",
+        "abilities": [
+            "Tierra",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "344",
+        "name": "Claydol",
+        "abilities": [
+            "Tierra",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "345",
+        "name": "Lileep",
+        "abilities": [
+            "Roca",
+            "Planta"
+        ]
+    },
+    {
+        "id": "346",
+        "name": "Cradily",
+        "abilities": [
+            "Roca",
+            "Planta"
+        ]
+    },
+    {
+        "id": "347",
+        "name": "Anorith",
+        "abilities": [
+            "Roca",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "348",
+        "name": "Armaldo",
+        "abilities": [
+            "Roca",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "349",
+        "name": "Feebas",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "350",
+        "name": "Milotic",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "351",
+        "name": "Castform",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "352",
+        "name": "Kecleon",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "353",
+        "name": "Shuppet",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "354",
+        "name": "Banette",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "355",
+        "name": "Duskull",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "356",
+        "name": "Dusclops",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "357",
+        "name": "Tropius",
+        "abilities": [
+            "Planta",
+            "Volador"
+        ]
+    },
+    {
+        "id": "358",
+        "name": "Chimecho",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "359",
+        "name": "Absol",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "360",
+        "name": "Wynaut",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "361",
+        "name": "Snorunt",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "362",
+        "name": "Glalie",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "363",
+        "name": "Spheal",
+        "abilities": [
+            "Hielo",
+            "Agua"
+        ]
+    },
+    {
+        "id": "364",
+        "name": "Sealeo",
+        "abilities": [
+            "Hielo",
+            "Agua"
+        ]
+    },
+    {
+        "id": "365",
+        "name": "Walrein",
+        "abilities": [
+            "Hielo",
+            "Agua"
+        ]
+    },
+    {
+        "id": "366",
+        "name": "Clamperl",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "367",
+        "name": "Huntail",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "368",
+        "name": "Gorebyss",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "369",
+        "name": "Relicanth",
+        "abilities": [
+            "Agua",
+            "Roca"
+        ]
+    },
+    {
+        "id": "370",
+        "name": "Luvdisc",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "371",
+        "name": "Bagon",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "372",
+        "name": "Shelgon",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "373",
+        "name": "Salamence",
+        "abilities": [
+            "Dragón",
+            "Volador"
+        ]
+    },
+    {
+        "id": "374",
+        "name": "Beldum",
+        "abilities": [
+            "Acero",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "375",
+        "name": "Metang",
+        "abilities": [
+            "Acero",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "376",
+        "name": "Metagross",
+        "abilities": [
+            "Acero",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "377",
+        "name": "Regirock",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "378",
+        "name": "Regice",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "379",
+        "name": "Registeel",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "380",
+        "name": "Latias",
+        "abilities": [
+            "Dragón",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "381",
+        "name": "Latios",
+        "abilities": [
+            "Dragón",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "382",
+        "name": "Kyogre",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "383",
+        "name": "Groudon",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "384",
+        "name": "Rayquaza",
+        "abilities": [
+            "Dragón",
+            "Volador"
+        ]
+    },
+    {
+        "id": "385",
+        "name": "Jirachi",
+        "abilities": [
+            "Acero",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "386",
+        "name": "Deoxys",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "387",
+        "name": "Turtwig",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "388",
+        "name": "Grotle",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "389",
+        "name": "Torterra",
+        "abilities": [
+            "Planta",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "390",
+        "name": "Chimchar",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "391",
+        "name": "Monferno",
+        "abilities": [
+            "Fuego",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "392",
+        "name": "Infernape",
+        "abilities": [
+            "Fuego",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "393",
+        "name": "Piplup",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "394",
+        "name": "Prinplup",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "395",
+        "name": "Empoleon",
+        "abilities": [
+            "Agua",
+            "Acero"
+        ]
+    },
+    {
+        "id": "396",
+        "name": "Starly",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "397",
+        "name": "Staravia",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "398",
+        "name": "Staraptor",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "399",
+        "name": "Bidoof",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "400",
+        "name": "Bibarel",
+        "abilities": [
+            "Normal",
+            "Agua"
+        ]
+    },
+    {
+        "id": "401",
+        "name": "Kricketot",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "402",
+        "name": "Kricketune",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "403",
+        "name": "Shinx",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "404",
+        "name": "Luxio",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "405",
+        "name": "Luxray",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "406",
+        "name": "Budew",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "407",
+        "name": "Roserade",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "408",
+        "name": "Cranidos",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "409",
+        "name": "Rampardos",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "410",
+        "name": "Shieldon",
+        "abilities": [
+            "Roca",
+            "Acero"
+        ]
+    },
+    {
+        "id": "411",
+        "name": "Bastiodon",
+        "abilities": [
+            "Roca",
+            "Acero"
+        ]
+    },
+    {
+        "id": "412",
+        "name": "Burmy",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "413",
+        "name": "Wormadam",
+        "abilities": [
+            "Bicho",
+            "Planta"
+        ]
+    },
+    {
+        "id": "414",
+        "name": "Mothim",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "415",
+        "name": "Combee",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "416",
+        "name": "Vespiquen",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "417",
+        "name": "Pachirisu",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "418",
+        "name": "Buizel",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "419",
+        "name": "Floatzel",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "420",
+        "name": "Cherubi",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "421",
+        "name": "Cherrim",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "422",
+        "name": "Shellos",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "423",
+        "name": "Gastrodon",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "424",
+        "name": "Ambipom",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "425",
+        "name": "Drifloon",
+        "abilities": [
+            "Fantasma",
+            "Volador"
+        ]
+    },
+    {
+        "id": "426",
+        "name": "Drifblim",
+        "abilities": [
+            "Fantasma",
+            "Volador"
+        ]
+    },
+    {
+        "id": "427",
+        "name": "Buneary",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "428",
+        "name": "Lopunny",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "429",
+        "name": "Mismagius",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "430",
+        "name": "Honchkrow",
+        "abilities": [
+            "Siniestro",
+            "Volador"
+        ]
+    },
+    {
+        "id": "431",
+        "name": "Glameow",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "432",
+        "name": "Purugly",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "433",
+        "name": "Chingling",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "434",
+        "name": "Stunky",
+        "abilities": [
+            "Veneno",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "435",
+        "name": "Skuntank",
+        "abilities": [
+            "Veneno",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "436",
+        "name": "Bronzor",
+        "abilities": [
+            "Acero",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "437",
+        "name": "Bronzong",
+        "abilities": [
+            "Acero",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "438",
+        "name": "Bonsly",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "439",
+        "name": "Mime Jr.",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "440",
+        "name": "Happiny",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "441",
+        "name": "Chatot",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "442",
+        "name": "Spiritomb",
+        "abilities": [
+            "Fantasma",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "443",
+        "name": "Gible",
+        "abilities": [
+            "Dragón",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "444",
+        "name": "Gabite",
+        "abilities": [
+            "Dragón",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "445",
+        "name": "Garchomp",
+        "abilities": [
+            "Dragón",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "446",
+        "name": "Munchlax",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "447",
+        "name": "Riolu",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "448",
+        "name": "Lucario",
+        "abilities": [
+            "Lucha",
+            "Acero"
+        ]
+    },
+    {
+        "id": "449",
+        "name": "Hippopotas",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "450",
+        "name": "Hippowdon",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "451",
+        "name": "Skorupi",
+        "abilities": [
+            "Veneno",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "452",
+        "name": "Drapion",
+        "abilities": [
+            "Veneno",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "453",
+        "name": "Croagunk",
+        "abilities": [
+            "Veneno",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "454",
+        "name": "Toxicroak",
+        "abilities": [
+            "Veneno",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "455",
+        "name": "Carnivine",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "456",
+        "name": "Finneon",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "457",
+        "name": "Lumineon",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "458",
+        "name": "Mantyke",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "459",
+        "name": "Snover",
+        "abilities": [
+            "Planta",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "460",
+        "name": "Abomasnow",
+        "abilities": [
+            "Planta",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "461",
+        "name": "Weavile",
+        "abilities": [
+            "Siniestro",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "462",
+        "name": "Magnezone",
+        "abilities": [
+            "Eléctrico",
+            "Acero"
+        ]
+    },
+    {
+        "id": "463",
+        "name": "Lickilicky",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "464",
+        "name": "Rhyperior",
+        "abilities": [
+            "Tierra",
+            "Roca"
+        ]
+    },
+    {
+        "id": "465",
+        "name": "Tangrowth",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "466",
+        "name": "Electivire",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "467",
+        "name": "Magmortar",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "468",
+        "name": "Togekiss",
+        "abilities": [
+            "Hada",
+            "Volador"
+        ]
+    },
+    {
+        "id": "469",
+        "name": "Yanmega",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "470",
+        "name": "Leafeon",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "471",
+        "name": "Glaceon",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "472",
+        "name": "Gliscor",
+        "abilities": [
+            "Tierra",
+            "Volador"
+        ]
+    },
+    {
+        "id": "473",
+        "name": "Mamoswine",
+        "abilities": [
+            "Hielo",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "474",
+        "name": "Porygon-Z",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "475",
+        "name": "Gallade",
+        "abilities": [
+            "Psíquico",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "476",
+        "name": "Probopass",
+        "abilities": [
+            "Roca",
+            "Acero"
+        ]
+    },
+    {
+        "id": "477",
+        "name": "Dusknoir",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "478",
+        "name": "Froslass",
+        "abilities": [
+            "Hielo",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "479",
+        "name": "Rotom",
+        "abilities": [
+            "Eléctrico",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "480",
+        "name": "Uxie",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "481",
+        "name": "Mesprit",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "482",
+        "name": "Azelf",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "483",
+        "name": "Dialga",
+        "abilities": [
+            "Acero",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "484",
+        "name": "Palkia",
+        "abilities": [
+            "Agua",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "485",
+        "name": "Heatran",
+        "abilities": [
+            "Fuego",
+            "Acero"
+        ]
+    },
+    {
+        "id": "486",
+        "name": "Regigigas",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "487",
+        "name": "Giratina",
+        "abilities": [
+            "Fantasma",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "488",
+        "name": "Cresselia",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "489",
+        "name": "Phione",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "490",
+        "name": "Manaphy",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "491",
+        "name": "Darkrai",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "492",
+        "name": "Shaymin",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "493",
+        "name": "Arceus",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "494",
+        "name": "Victini",
+        "abilities": [
+            "Psíquico",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "495",
+        "name": "Snivy",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "496",
+        "name": "Servine",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "497",
+        "name": "Serperior",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "498",
+        "name": "Tepig",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "499",
+        "name": "Pignite",
+        "abilities": [
+            "Fuego",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "500",
+        "name": "Emboar",
+        "abilities": [
+            "Fuego",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "501",
+        "name": "Oshawott",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "502",
+        "name": "Dewott",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "503",
+        "name": "Samurott",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "504",
+        "name": "Patrat",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "505",
+        "name": "Watchog",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "506",
+        "name": "Lillipup",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "507",
+        "name": "Herdier",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "508",
+        "name": "Stoutland",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "509",
+        "name": "Purrloin",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "510",
+        "name": "Liepard",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "511",
+        "name": "Pansage",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "512",
+        "name": "Simisage",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "513",
+        "name": "Pansear",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "514",
+        "name": "Simisear",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "515",
+        "name": "Panpour",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "516",
+        "name": "Simipour",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "517",
+        "name": "Munna",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "518",
+        "name": "Musharna",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "519",
+        "name": "Pidove",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "520",
+        "name": "Tranquill",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "521",
+        "name": "Unfezant",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "522",
+        "name": "Blitzle",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "523",
+        "name": "Zebstrika",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "524",
+        "name": "Roggenrola",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "525",
+        "name": "Boldore",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "526",
+        "name": "Gigalith",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "527",
+        "name": "Woobat",
+        "abilities": [
+            "Psíquico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "528",
+        "name": "Swoobat",
+        "abilities": [
+            "Psíquico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "529",
+        "name": "Drilbur",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "530",
+        "name": "Excadrill",
+        "abilities": [
+            "Tierra",
+            "Acero"
+        ]
+    },
+    {
+        "id": "531",
+        "name": "Audino",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "532",
+        "name": "Timburr",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "533",
+        "name": "Gurdurr",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "534",
+        "name": "Conkeldurr",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "535",
+        "name": "Tympole",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "536",
+        "name": "Palpitoad",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "537",
+        "name": "Seismitoad",
+        "abilities": [
+            "Agua",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "538",
+        "name": "Throh",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "539",
+        "name": "Sawk",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "540",
+        "name": "Sewaddle",
+        "abilities": [
+            "Bicho",
+            "Planta"
+        ]
+    },
+    {
+        "id": "541",
+        "name": "Swadloon",
+        "abilities": [
+            "Bicho",
+            "Planta"
+        ]
+    },
+    {
+        "id": "542",
+        "name": "Leavanny",
+        "abilities": [
+            "Bicho",
+            "Planta"
+        ]
+    },
+    {
+        "id": "543",
+        "name": "Venipede",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "544",
+        "name": "Whirlipede",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "545",
+        "name": "Scolipede",
+        "abilities": [
+            "Bicho",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "546",
+        "name": "Cottonee",
+        "abilities": [
+            "Planta",
+            "Hada"
+        ]
+    },
+    {
+        "id": "547",
+        "name": "Whimsicott",
+        "abilities": [
+            "Planta",
+            "Hada"
+        ]
+    },
+    {
+        "id": "548",
+        "name": "Petilil",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "549",
+        "name": "Lilligant",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "550",
+        "name": "Basculin",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "551",
+        "name": "Sandile",
+        "abilities": [
+            "Tierra",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "552",
+        "name": "Krokorok",
+        "abilities": [
+            "Tierra",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "553",
+        "name": "Krookodile",
+        "abilities": [
+            "Tierra",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "554",
+        "name": "Darumaka",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "555",
+        "name": "Darmanitan",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "556",
+        "name": "Maractus",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "557",
+        "name": "Dwebble",
+        "abilities": [
+            "Bicho",
+            "Roca"
+        ]
+    },
+    {
+        "id": "558",
+        "name": "Crustle",
+        "abilities": [
+            "Bicho",
+            "Roca"
+        ]
+    },
+    {
+        "id": "559",
+        "name": "Scraggy",
+        "abilities": [
+            "Siniestro",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "560",
+        "name": "Scrafty",
+        "abilities": [
+            "Siniestro",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "561",
+        "name": "Sigilyph",
+        "abilities": [
+            "Psíquico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "562",
+        "name": "Yamask",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "563",
+        "name": "Cofagrigus",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "564",
+        "name": "Tirtouga",
+        "abilities": [
+            "Agua",
+            "Roca"
+        ]
+    },
+    {
+        "id": "565",
+        "name": "Carracosta",
+        "abilities": [
+            "Agua",
+            "Roca"
+        ]
+    },
+    {
+        "id": "566",
+        "name": "Archen",
+        "abilities": [
+            "Roca",
+            "Volador"
+        ]
+    },
+    {
+        "id": "567",
+        "name": "Archeops",
+        "abilities": [
+            "Roca",
+            "Volador"
+        ]
+    },
+    {
+        "id": "568",
+        "name": "Trubbish",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "569",
+        "name": "Garbodor",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "570",
+        "name": "Zorua",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "571",
+        "name": "Zoroark",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "572",
+        "name": "Minccino",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "573",
+        "name": "Cinccino",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "574",
+        "name": "Gothita",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "575",
+        "name": "Gothorita",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "576",
+        "name": "Gothitelle",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "577",
+        "name": "Solosis",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "578",
+        "name": "Duosion",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "579",
+        "name": "Reuniclus",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "580",
+        "name": "Ducklett",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "581",
+        "name": "Swanna",
+        "abilities": [
+            "Agua",
+            "Volador"
+        ]
+    },
+    {
+        "id": "582",
+        "name": "Vanillite",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "583",
+        "name": "Vanillish",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "584",
+        "name": "Vanilluxe",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "585",
+        "name": "Deerling",
+        "abilities": [
+            "Normal",
+            "Planta"
+        ]
+    },
+    {
+        "id": "586",
+        "name": "Sawsbuck",
+        "abilities": [
+            "Normal",
+            "Planta"
+        ]
+    },
+    {
+        "id": "587",
+        "name": "Emolga",
+        "abilities": [
+            "Eléctrico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "588",
+        "name": "Karrablast",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "589",
+        "name": "Escavalier",
+        "abilities": [
+            "Bicho",
+            "Acero"
+        ]
+    },
+    {
+        "id": "590",
+        "name": "Foongus",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "591",
+        "name": "Amoonguss",
+        "abilities": [
+            "Planta",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "592",
+        "name": "Frillish",
+        "abilities": [
+            "Agua",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "593",
+        "name": "Jellicent",
+        "abilities": [
+            "Agua",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "594",
+        "name": "Alomomola",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "595",
+        "name": "Joltik",
+        "abilities": [
+            "Bicho",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "596",
+        "name": "Galvantula",
+        "abilities": [
+            "Bicho",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "597",
+        "name": "Ferroseed",
+        "abilities": [
+            "Planta",
+            "Acero"
+        ]
+    },
+    {
+        "id": "598",
+        "name": "Ferrothorn",
+        "abilities": [
+            "Planta",
+            "Acero"
+        ]
+    },
+    {
+        "id": "599",
+        "name": "Klink",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "600",
+        "name": "Klang",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "601",
+        "name": "Klinklang",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "602",
+        "name": "Tynamo",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "603",
+        "name": "Eelektrik",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "604",
+        "name": "Eelektross",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "605",
+        "name": "Elgyem",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "606",
+        "name": "Beheeyem",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "607",
+        "name": "Litwick",
+        "abilities": [
+            "Fantasma",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "608",
+        "name": "Lampent",
+        "abilities": [
+            "Fantasma",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "609",
+        "name": "Chandelure",
+        "abilities": [
+            "Fantasma",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "610",
+        "name": "Axew",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "611",
+        "name": "Fraxure",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "612",
+        "name": "Haxorus",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "613",
+        "name": "Cubchoo",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "614",
+        "name": "Beartic",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "615",
+        "name": "Cryogonal",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "616",
+        "name": "Shelmet",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "617",
+        "name": "Accelgor",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "618",
+        "name": "Stunfisk",
+        "abilities": [
+            "Tierra",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "619",
+        "name": "Mienfoo",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "620",
+        "name": "Mienshao",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "621",
+        "name": "Druddigon",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "622",
+        "name": "Golett",
+        "abilities": [
+            "Tierra",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "623",
+        "name": "Golurk",
+        "abilities": [
+            "Tierra",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "624",
+        "name": "Pawniard",
+        "abilities": [
+            "Siniestro",
+            "Acero"
+        ]
+    },
+    {
+        "id": "625",
+        "name": "Bisharp",
+        "abilities": [
+            "Siniestro",
+            "Acero"
+        ]
+    },
+    {
+        "id": "626",
+        "name": "Bouffalant",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "627",
+        "name": "Rufflet",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "628",
+        "name": "Braviary",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "629",
+        "name": "Vullaby",
+        "abilities": [
+            "Siniestro",
+            "Volador"
+        ]
+    },
+    {
+        "id": "630",
+        "name": "Mandibuzz",
+        "abilities": [
+            "Siniestro",
+            "Volador"
+        ]
+    },
+    {
+        "id": "631",
+        "name": "Heatmor",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "632",
+        "name": "Durant",
+        "abilities": [
+            "Bicho",
+            "Acero"
+        ]
+    },
+    {
+        "id": "633",
+        "name": "Deino",
+        "abilities": [
+            "Siniestro",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "634",
+        "name": "Zweilous",
+        "abilities": [
+            "Siniestro",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "635",
+        "name": "Hydreigon",
+        "abilities": [
+            "Siniestro",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "636",
+        "name": "Larvesta",
+        "abilities": [
+            "Bicho",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "637",
+        "name": "Volcarona",
+        "abilities": [
+            "Bicho",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "638",
+        "name": "Cobalion",
+        "abilities": [
+            "Acero",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "639",
+        "name": "Terrakion",
+        "abilities": [
+            "Roca",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "640",
+        "name": "Virizion",
+        "abilities": [
+            "Planta",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "641",
+        "name": "Tornadus",
+        "abilities": [
+            "Volador"
+        ]
+    },
+    {
+        "id": "642",
+        "name": "Thundurus",
+        "abilities": [
+            "Eléctrico",
+            "Volador"
+        ]
+    },
+    {
+        "id": "643",
+        "name": "Reshiram",
+        "abilities": [
+            "Dragón",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "644",
+        "name": "Zekrom",
+        "abilities": [
+            "Dragón",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "645",
+        "name": "Landorus",
+        "abilities": [
+            "Tierra",
+            "Volador"
+        ]
+    },
+    {
+        "id": "646",
+        "name": "Kyurem",
+        "abilities": [
+            "Dragón",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "647",
+        "name": "Keldeo",
+        "abilities": [
+            "Agua",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "648",
+        "name": "Meloetta",
+        "abilities": [
+            "Normal",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "649",
+        "name": "Genesect",
+        "abilities": [
+            "Bicho",
+            "Acero"
+        ]
+    },
+    {
+        "id": "650",
+        "name": "Chespin",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "651",
+        "name": "Quilladin",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "652",
+        "name": "Chesnaught",
+        "abilities": [
+            "Planta",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "653",
+        "name": "Fennekin",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "654",
+        "name": "Braixen",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "655",
+        "name": "Delphox",
+        "abilities": [
+            "Fuego",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "656",
+        "name": "Froakie",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "657",
+        "name": "Frogadier",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "658",
+        "name": "Greninja",
+        "abilities": [
+            "Agua",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "659",
+        "name": "Bunnelby",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "660",
+        "name": "Diggersby",
+        "abilities": [
+            "Normal",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "661",
+        "name": "Fletchling",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "662",
+        "name": "Fletchinder",
+        "abilities": [
+            "Fuego",
+            "Volador"
+        ]
+    },
+    {
+        "id": "663",
+        "name": "Talonflame",
+        "abilities": [
+            "Fuego",
+            "Volador"
+        ]
+    },
+    {
+        "id": "664",
+        "name": "Scatterbug",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "665",
+        "name": "Spewpa",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "666",
+        "name": "Vivillon",
+        "abilities": [
+            "Bicho",
+            "Volador"
+        ]
+    },
+    {
+        "id": "667",
+        "name": "Litleo",
+        "abilities": [
+            "Fuego",
+            "Normal"
+        ]
+    },
+    {
+        "id": "668",
+        "name": "Pyroar",
+        "abilities": [
+            "Fuego",
+            "Normal"
+        ]
+    },
+    {
+        "id": "669",
+        "name": "Flabébé",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "670",
+        "name": "Floette",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "671",
+        "name": "Florges",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "672",
+        "name": "Skiddo",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "673",
+        "name": "Gogoat",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "674",
+        "name": "Pancham",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "675",
+        "name": "Pangoro",
+        "abilities": [
+            "Lucha",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "676",
+        "name": "Furfrou",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "677",
+        "name": "Espurr",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "678",
+        "name": "Meowstic",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "679",
+        "name": "Honedge",
+        "abilities": [
+            "Acero",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "680",
+        "name": "Doublade",
+        "abilities": [
+            "Acero",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "681",
+        "name": "Aegislash",
+        "abilities": [
+            "Acero",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "682",
+        "name": "Spritzee",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "683",
+        "name": "Aromatisse",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "684",
+        "name": "Swirlix",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "685",
+        "name": "Slurpuff",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "686",
+        "name": "Inkay",
+        "abilities": [
+            "Siniestro",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "687",
+        "name": "Malamar",
+        "abilities": [
+            "Siniestro",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "688",
+        "name": "Binacle",
+        "abilities": [
+            "Roca",
+            "Agua"
+        ]
+    },
+    {
+        "id": "689",
+        "name": "Barbaracle",
+        "abilities": [
+            "Roca",
+            "Agua"
+        ]
+    },
+    {
+        "id": "690",
+        "name": "Skrelp",
+        "abilities": [
+            "Veneno",
+            "Agua"
+        ]
+    },
+    {
+        "id": "691",
+        "name": "Dragalge",
+        "abilities": [
+            "Veneno",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "692",
+        "name": "Clauncher",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "693",
+        "name": "Clawitzer",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "694",
+        "name": "Helioptile",
+        "abilities": [
+            "Eléctrico",
+            "Normal"
+        ]
+    },
+    {
+        "id": "695",
+        "name": "Heliolisk",
+        "abilities": [
+            "Eléctrico",
+            "Normal"
+        ]
+    },
+    {
+        "id": "696",
+        "name": "Tyrunt",
+        "abilities": [
+            "Roca",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "697",
+        "name": "Tyrantrum",
+        "abilities": [
+            "Roca",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "698",
+        "name": "Amaura",
+        "abilities": [
+            "Roca",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "699",
+        "name": "Aurorus",
+        "abilities": [
+            "Roca",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "700",
+        "name": "Sylveon",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "701",
+        "name": "Hawlucha",
+        "abilities": [
+            "Lucha",
+            "Volador"
+        ]
+    },
+    {
+        "id": "702",
+        "name": "Dedenne",
+        "abilities": [
+            "Eléctrico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "703",
+        "name": "Carbink",
+        "abilities": [
+            "Roca",
+            "Hada"
+        ]
+    },
+    {
+        "id": "704",
+        "name": "Goomy",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "705",
+        "name": "Sliggoo",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "706",
+        "name": "Goodra",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "707",
+        "name": "Klefki",
+        "abilities": [
+            "Acero",
+            "Hada"
+        ]
+    },
+    {
+        "id": "708",
+        "name": "Phantump",
+        "abilities": [
+            "Fantasma",
+            "Planta"
+        ]
+    },
+    {
+        "id": "709",
+        "name": "Trevenant",
+        "abilities": [
+            "Fantasma",
+            "Planta"
+        ]
+    },
+    {
+        "id": "710",
+        "name": "Pumpkaboo",
+        "abilities": [
+            "Fantasma",
+            "Planta"
+        ]
+    },
+    {
+        "id": "711",
+        "name": "Gourgeist",
+        "abilities": [
+            "Fantasma",
+            "Planta"
+        ]
+    },
+    {
+        "id": "712",
+        "name": "Bergmite",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "713",
+        "name": "Avalugg",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "714",
+        "name": "Noibat",
+        "abilities": [
+            "Volador",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "715",
+        "name": "Noivern",
+        "abilities": [
+            "Volador",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "716",
+        "name": "Xerneas",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "717",
+        "name": "Yveltal",
+        "abilities": [
+            "Siniestro",
+            "Volador"
+        ]
+    },
+    {
+        "id": "718",
+        "name": "Zygarde",
+        "abilities": [
+            "Dragón",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "719",
+        "name": "Diancie",
+        "abilities": [
+            "Roca",
+            "Hada"
+        ]
+    },
+    {
+        "id": "720",
+        "name": "Hoopa",
+        "abilities": [
+            "Psíquico",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "721",
+        "name": "Volcanion",
+        "abilities": [
+            "Fuego",
+            "Agua"
+        ]
+    },
+    {
+        "id": "722",
+        "name": "Rowlet",
+        "abilities": [
+            "Planta",
+            "Volador"
+        ]
+    },
+    {
+        "id": "723",
+        "name": "Dartrix",
+        "abilities": [
+            "Planta",
+            "Volador"
+        ]
+    },
+    {
+        "id": "724",
+        "name": "Decidueye",
+        "abilities": [
+            "Planta",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "725",
+        "name": "Litten",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "726",
+        "name": "Torracat",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "727",
+        "name": "Incineroar",
+        "abilities": [
+            "Fuego",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "728",
+        "name": "Popplio",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "729",
+        "name": "Brionne",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "730",
+        "name": "Primarina",
+        "abilities": [
+            "Agua",
+            "Hada"
+        ]
+    },
+    {
+        "id": "731",
+        "name": "Pikipek",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "732",
+        "name": "Trumbeak",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "733",
+        "name": "Toucannon",
+        "abilities": [
+            "Normal",
+            "Volador"
+        ]
+    },
+    {
+        "id": "734",
+        "name": "Yungoos",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "735",
+        "name": "Gumshoos",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "736",
+        "name": "Grubbin",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "737",
+        "name": "Charjabug",
+        "abilities": [
+            "Bicho",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "738",
+        "name": "Vikavolt",
+        "abilities": [
+            "Bicho",
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "739",
+        "name": "Crabrawler",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "740",
+        "name": "Crabominable",
+        "abilities": [
+            "Lucha",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "741",
+        "name": "Oricorio",
+        "abilities": [
+            "Fuego",
+            "Volador"
+        ]
+    },
+    {
+        "id": "742",
+        "name": "Cutiefly",
+        "abilities": [
+            "Bicho",
+            "Hada"
+        ]
+    },
+    {
+        "id": "743",
+        "name": "Ribombee",
+        "abilities": [
+            "Bicho",
+            "Hada"
+        ]
+    },
+    {
+        "id": "744",
+        "name": "Rockruff",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "745",
+        "name": "Lycanroc",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "746",
+        "name": "Wishiwashi",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "747",
+        "name": "Mareanie",
+        "abilities": [
+            "Veneno",
+            "Agua"
+        ]
+    },
+    {
+        "id": "748",
+        "name": "Toxapex",
+        "abilities": [
+            "Veneno",
+            "Agua"
+        ]
+    },
+    {
+        "id": "749",
+        "name": "Mudbray",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "750",
+        "name": "Mudsdale",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "751",
+        "name": "Dewpider",
+        "abilities": [
+            "Agua",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "752",
+        "name": "Araquanid",
+        "abilities": [
+            "Agua",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "753",
+        "name": "Fomantis",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "754",
+        "name": "Lurantis",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "755",
+        "name": "Morelull",
+        "abilities": [
+            "Planta",
+            "Hada"
+        ]
+    },
+    {
+        "id": "756",
+        "name": "Shiinotic",
+        "abilities": [
+            "Planta",
+            "Hada"
+        ]
+    },
+    {
+        "id": "757",
+        "name": "Salandit",
+        "abilities": [
+            "Veneno",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "758",
+        "name": "Salazzle",
+        "abilities": [
+            "Veneno",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "759",
+        "name": "Stufful",
+        "abilities": [
+            "Normal",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "760",
+        "name": "Bewear",
+        "abilities": [
+            "Normal",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "761",
+        "name": "Bounsweet",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "762",
+        "name": "Steenee",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "763",
+        "name": "Tsareena",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "764",
+        "name": "Comfey",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "765",
+        "name": "Oranguru",
+        "abilities": [
+            "Normal",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "766",
+        "name": "Passimian",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "767",
+        "name": "Wimpod",
+        "abilities": [
+            "Bicho",
+            "Agua"
+        ]
+    },
+    {
+        "id": "768",
+        "name": "Golisopod",
+        "abilities": [
+            "Bicho",
+            "Agua"
+        ]
+    },
+    {
+        "id": "769",
+        "name": "Sandygast",
+        "abilities": [
+            "Fantasma",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "770",
+        "name": "Palossand",
+        "abilities": [
+            "Fantasma",
+            "Tierra"
+        ]
+    },
+    {
+        "id": "771",
+        "name": "Pyukumuku",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "772",
+        "name": "Código Cero",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "773",
+        "name": "Silvally",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "774",
+        "name": "Minior",
+        "abilities": [
+            "Roca",
+            "Volador"
+        ]
+    },
+    {
+        "id": "775",
+        "name": "Komala",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "776",
+        "name": "Turtonator",
+        "abilities": [
+            "Fuego",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "777",
+        "name": "Togedemaru",
+        "abilities": [
+            "Eléctrico",
+            "Acero"
+        ]
+    },
+    {
+        "id": "778",
+        "name": "Mimikyu",
+        "abilities": [
+            "Fantasma",
+            "Hada"
+        ]
+    },
+    {
+        "id": "779",
+        "name": "Bruxish",
+        "abilities": [
+            "Agua",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "780",
+        "name": "Drampa",
+        "abilities": [
+            "Normal",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "781",
+        "name": "Dhelmise",
+        "abilities": [
+            "Fantasma",
+            "Planta"
+        ]
+    },
+    {
+        "id": "782",
+        "name": "Jangmo-o",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "783",
+        "name": "Hakamo-o",
+        "abilities": [
+            "Dragón",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "784",
+        "name": "Kommo-o",
+        "abilities": [
+            "Dragón",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "785",
+        "name": "Tapu Koko",
+        "abilities": [
+            "Eléctrico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "786",
+        "name": "Tapu Lele",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "787",
+        "name": "Tapu Bulu",
+        "abilities": [
+            "Planta",
+            "Hada"
+        ]
+    },
+    {
+        "id": "788",
+        "name": "Tapu Fini",
+        "abilities": [
+            "Agua",
+            "Hada"
+        ]
+    },
+    {
+        "id": "789",
+        "name": "Cosmog",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "790",
+        "name": "Cosmoem",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "791",
+        "name": "Solgaleo",
+        "abilities": [
+            "Psíquico",
+            "Acero"
+        ]
+    },
+    {
+        "id": "792",
+        "name": "Lunala",
+        "abilities": [
+            "Psíquico",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "793",
+        "name": "Nihilego",
+        "abilities": [
+            "Roca",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "794",
+        "name": "Buzzwole",
+        "abilities": [
+            "Bicho",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "795",
+        "name": "Pheromosa",
+        "abilities": [
+            "Bicho",
+            "Lucha"
+        ]
+    },
+    {
+        "id": "796",
+        "name": "Xurkitree",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "797",
+        "name": "Celesteela",
+        "abilities": [
+            "Acero",
+            "Volador"
+        ]
+    },
+    {
+        "id": "798",
+        "name": "Kartana",
+        "abilities": [
+            "Planta",
+            "Acero"
+        ]
+    },
+    {
+        "id": "799",
+        "name": "Guzzlord",
+        "abilities": [
+            "Siniestro",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "800",
+        "name": "Necrozma",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "801",
+        "name": "Magearna",
+        "abilities": [
+            "Acero",
+            "Hada"
+        ]
+    },
+    {
+        "id": "802",
+        "name": "Marshadow",
+        "abilities": [
+            "Lucha",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "803",
+        "name": "Poipole",
+        "abilities": [
+            "Veneno"
+        ]
+    },
+    {
+        "id": "804",
+        "name": "Naganadel",
+        "abilities": [
+            "Veneno",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "805",
+        "name": "Stakataka",
+        "abilities": [
+            "Roca",
+            "Acero"
+        ]
+    },
+    {
+        "id": "806",
+        "name": "Blacephalon",
+        "abilities": [
+            "Fuego",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "807",
+        "name": "Zeraora",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "808",
+        "name": "Meltan",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "809",
+        "name": "Melmetal",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "810",
+        "name": "Grookey",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "811",
+        "name": "Thwackey",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "812",
+        "name": "Rillaboom",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "813",
+        "name": "Scorbunny",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "814",
+        "name": "Raboot",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "815",
+        "name": "Cinderace",
+        "abilities": [
+            "Fuego"
+        ]
+    },
+    {
+        "id": "816",
+        "name": "Sobble",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "817",
+        "name": "Drizzile",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "818",
+        "name": "Inteleon",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "819",
+        "name": "Skwovet",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "820",
+        "name": "Greedent",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "821",
+        "name": "Rookidee",
+        "abilities": [
+            "Volador"
+        ]
+    },
+    {
+        "id": "822",
+        "name": "Corvisquire",
+        "abilities": [
+            "Volador"
+        ]
+    },
+    {
+        "id": "823",
+        "name": "Corviknight",
+        "abilities": [
+            "Volador",
+            "Acero"
+        ]
+    },
+    {
+        "id": "824",
+        "name": "Blipbug",
+        "abilities": [
+            "Bicho"
+        ]
+    },
+    {
+        "id": "825",
+        "name": "Dottler",
+        "abilities": [
+            "Bicho",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "826",
+        "name": "Orbeetle",
+        "abilities": [
+            "Bicho",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "827",
+        "name": "Nickit",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "828",
+        "name": "Thievul",
+        "abilities": [
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "829",
+        "name": "Gossifleur",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "830",
+        "name": "Eldegoss",
+        "abilities": [
+            "Planta"
+        ]
+    },
+    {
+        "id": "831",
+        "name": "Wooloo",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "832",
+        "name": "Dubwool",
+        "abilities": [
+            "Normal"
+        ]
+    },
+    {
+        "id": "833",
+        "name": "Chewtle",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "834",
+        "name": "Drednaw",
+        "abilities": [
+            "Agua",
+            "Roca"
+        ]
+    },
+    {
+        "id": "835",
+        "name": "Yamper",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "836",
+        "name": "Boltund",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "837",
+        "name": "Rolycoly",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "838",
+        "name": "Carkol",
+        "abilities": [
+            "Roca",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "839",
+        "name": "Coalossal",
+        "abilities": [
+            "Roca",
+            "Fuego"
+        ]
+    },
+    {
+        "id": "840",
+        "name": "Applin",
+        "abilities": [
+            "Planta",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "841",
+        "name": "Flapple",
+        "abilities": [
+            "Planta",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "842",
+        "name": "Appletun",
+        "abilities": [
+            "Planta",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "843",
+        "name": "Silicobra",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "844",
+        "name": "Sandaconda",
+        "abilities": [
+            "Tierra"
+        ]
+    },
+    {
+        "id": "845",
+        "name": "Cramorant",
+        "abilities": [
+            "Volador",
+            "Agua"
+        ]
+    },
+    {
+        "id": "846",
+        "name": "Arrokuda",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "847",
+        "name": "Barraskewda",
+        "abilities": [
+            "Agua"
+        ]
+    },
+    {
+        "id": "848",
+        "name": "Toxel",
+        "abilities": [
+            "Eléctrico",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "849",
+        "name": "Toxtricity",
+        "abilities": [
+            "Eléctrico",
+            "Veneno"
+        ]
+    },
+    {
+        "id": "850",
+        "name": "Sizzlipede",
+        "abilities": [
+            "Fuego",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "851",
+        "name": "Centiskorch",
+        "abilities": [
+            "Fuego",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "852",
+        "name": "Clobbopus",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "853",
+        "name": "Grapploct",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "854",
+        "name": "Sinistea",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "855",
+        "name": "Polteageist",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "856",
+        "name": "Hatenna",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "857",
+        "name": "Hattrem",
+        "abilities": [
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "858",
+        "name": "Hatterene",
+        "abilities": [
+            "Psíquico",
+            "Hada"
+        ]
+    },
+    {
+        "id": "859",
+        "name": "Impidimp",
+        "abilities": [
+            "Siniestro",
+            "Hada"
+        ]
+    },
+    {
+        "id": "860",
+        "name": "Morgrem",
+        "abilities": [
+            "Siniestro",
+            "Hada"
+        ]
+    },
+    {
+        "id": "861",
+        "name": "Grimmsnarl",
+        "abilities": [
+            "Siniestro",
+            "Hada"
+        ]
+    },
+    {
+        "id": "862",
+        "name": "Obstagoon",
+        "abilities": [
+            "Siniestro",
+            "Normal"
+        ]
+    },
+    {
+        "id": "863",
+        "name": "Perrserker",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "864",
+        "name": "Cursola",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "865",
+        "name": "Sirfetch'd",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "866",
+        "name": "Mr. Rime",
+        "abilities": [
+            "Hielo",
+            "Psíquico"
+        ]
+    },
+    {
+        "id": "867",
+        "name": "Runerigus",
+        "abilities": [
+            "Tierra",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "868",
+        "name": "Milcery",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "869",
+        "name": "Alcremie",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "870",
+        "name": "Falinks",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "871",
+        "name": "Pincurchin",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "872",
+        "name": "Snom",
+        "abilities": [
+            "Hielo",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "873",
+        "name": "Frosmoth",
+        "abilities": [
+            "Hielo",
+            "Bicho"
+        ]
+    },
+    {
+        "id": "874",
+        "name": "Stonjourner",
+        "abilities": [
+            "Roca"
+        ]
+    },
+    {
+        "id": "875",
+        "name": "Eiscue",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "876",
+        "name": "Indeedee",
+        "abilities": [
+            "Psíquico",
+            "Normal"
+        ]
+    },
+    {
+        "id": "877",
+        "name": "Morpeko",
+        "abilities": [
+            "Eléctrico",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "878",
+        "name": "Cufant",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "879",
+        "name": "Copperajah",
+        "abilities": [
+            "Acero"
+        ]
+    },
+    {
+        "id": "880",
+        "name": "Dracozolt",
+        "abilities": [
+            "Eléctrico",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "881",
+        "name": "Arctozolt",
+        "abilities": [
+            "Eléctrico",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "882",
+        "name": "Dracovish",
+        "abilities": [
+            "Agua",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "883",
+        "name": "Arctovish",
+        "abilities": [
+            "Agua",
+            "Hielo"
+        ]
+    },
+    {
+        "id": "884",
+        "name": "Duraludon",
+        "abilities": [
+            "Acero",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "885",
+        "name": "Dreepy",
+        "abilities": [
+            "Dragón",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "886",
+        "name": "Drakloak",
+        "abilities": [
+            "Dragón",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "887",
+        "name": "Dragapult",
+        "abilities": [
+            "Dragón",
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "888",
+        "name": "Zacian",
+        "abilities": [
+            "Hada"
+        ]
+    },
+    {
+        "id": "889",
+        "name": "Zamazenta",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "890",
+        "name": "Eternatus",
+        "abilities": [
+            "Veneno",
+            "Dragón"
+        ]
+    },
+    {
+        "id": "891",
+        "name": "Kubfu",
+        "abilities": [
+            "Lucha"
+        ]
+    },
+    {
+        "id": "892",
+        "name": "Urshifu",
+        "abilities": [
+            "Lucha",
+            "Siniestro"
+        ]
+    },
+    {
+        "id": "893",
+        "name": "Zarude",
+        "abilities": [
+            "Siniestro",
+            "Planta"
+        ]
+    },
+    {
+        "id": "894",
+        "name": "Regieleki",
+        "abilities": [
+            "Eléctrico"
+        ]
+    },
+    {
+        "id": "895",
+        "name": "Regidrago",
+        "abilities": [
+            "Dragón"
+        ]
+    },
+    {
+        "id": "896",
+        "name": "Glastrier",
+        "abilities": [
+            "Hielo"
+        ]
+    },
+    {
+        "id": "897",
+        "name": "Spectrier",
+        "abilities": [
+            "Fantasma"
+        ]
+    },
+    {
+        "id": "898",
+        "name": "Calyrex",
+        "abilities": [
+            "Psíquico",
+            "Planta"
+        ]
+    }
+]

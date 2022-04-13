@@ -1,0 +1,17 @@
+
+DROP SCHEMA public CASCADE;
+CREATE SCHEMA public;
+
+CREATE DATABASE pokedexexamedi;
+
+npx prisma db push
+
+npm install @prisma/client
+
+Generate Schema:   
+    npx prisma generate
+    npx prisma db push
+
+mkdir lib && touch lib/prisma.ts
+
+npx prisma db seed

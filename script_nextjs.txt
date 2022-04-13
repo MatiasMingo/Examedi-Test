@@ -1,0 +1,12 @@
+npm run dev
+npm install -D tailwindcss
+npx tailwindcss init
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install prisma --save-dev
+npx prisma init
+npx prisma db push
+npx prisma studio
+npm install @prisma/client
+npx prisma generate
+mkdir lib && touch lib/prisma.ts
