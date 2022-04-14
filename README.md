@@ -1,10 +1,11 @@
 # Examedi-Test
 
-Please run in psql command line:
+##Please run in psql command line:
   
   CREATE DATABASE pokedexexamedi;
  
-Then run in your terminal:
+##Then run in your terminal:
+  
   npx prisma generate
   
   npx prisma db push
