@@ -25,7 +25,7 @@ const Home: NextPage = (props) => {
         </div>
         <div className="grid grid-cols-4 gap-4">
           {pokemons?.map((pokemon, i) => (         
-              <Card pokemon={pokemon} id={i}/>
+              <Card pokemon={pokemon} key={i}/>
               )
             )
           }
