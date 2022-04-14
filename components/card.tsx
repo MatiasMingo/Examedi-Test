@@ -1,4 +1,5 @@
 import React from 'react'
+import styles from '../styles/Card.module.css'
 
 export type ProkemonProps = {
   id: number;
@@ -9,11 +10,18 @@ export type ProkemonProps = {
 
 const Card: React.FC<{pokemon: ProkemonProps}> = ({ pokemon }) => {
   return (
-    <div>
-        <img src={pokemon.image}/>
-        <h3>{pokemon.id}</h3>
-        <h3>{pokemon.name}</h3>
-        <h3>{pokemon.abilities}</h3>
+    <div className={styles.box} >
+        <div className={styles.image_box}>
+          <img src={pokemon.image}/>
+        </div>
+        <h3 className={styles.number}>N.º{pokemon.id}</h3>
+        <h3 className={styles.name}>{pokemon.name}</h3>
+        <h3> {pokemon.abilities.map((ability,index)=>{
+              return <span className={styles.ability} key={index}>{ability} </span>
+              }
+            )
+          } 
+        </h3>
     </div>
   )
 }
