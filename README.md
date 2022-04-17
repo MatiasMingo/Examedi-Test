@@ -6,12 +6,12 @@ First run in psql terminal the following command:
  
 Then run in your terminal the following commands:
   
-  `npx prisma generate
+  `npx prisma generate`
   
-  npx prisma db push
+  `npx prisma db push`
   
-  npx prisma db seed
+  `npx prisma db seed`
   
-  npm run dev`
+  `npm run dev`
 
 
